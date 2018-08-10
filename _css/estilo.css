@@ -1,0 +1,26 @@
+@charset "UTF-8";
+#tableSnake {
+  border: 1px solid #606060;
+  border-spacing: 0px;
+  margin: auto;
+  width: auto;
+  height: auto;
+  padding: 0px;
+  overflow: hidden;
+}
+.dataCell {
+  border: 1px solid #606060;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+  left: 10px;
+}
+.corpo {
+  background-color: black;
+}
+.cabeca {
+  background-color: purple;
+}
+.calda {
+  background-color: red;
+}
